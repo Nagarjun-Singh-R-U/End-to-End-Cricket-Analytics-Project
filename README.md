@@ -26,4 +26,8 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 *   Applied data-driven analysis and decision-making techniques to form the best playing 11 based on the requirements and insights obtained from the dashboard.
 *   The combined playing 11 was determined to optimize team performance and increase the chances of success in the ICC Cricket World Cup 2022.
 
+## Parameters:
+
+
+
 
