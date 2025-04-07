@@ -38,7 +38,7 @@ In This project Created a Power BI Dashboard which helps to review and compare p
   ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/df8280d4cbc058aa1d0334054e207a6e50b450ef/Anchors.png)
 
 * All-Rounders
-  ![Image Alt]()
+  ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/e4a2e549ca454d208872327df0aa1ac4a2e59085/All-Rounders.png)
 
 * Fast Bowlers
   ![Image Alt]()
