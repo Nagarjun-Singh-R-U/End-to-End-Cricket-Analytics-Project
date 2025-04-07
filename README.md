@@ -42,6 +42,13 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 
 * Fast Bowlers
   ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/5931c42db0c9cce7348295b1fd79fbd926b4fc62/Fast%20Bowlers.png)
+
+## Technologies Used:
+
+* Web Scraping: Bright Data (Third-party Web Scraper)
+* Programming Language: Python
+* Data Manipulation: Pandas
+* Data Visualization: Power BI
   
 
 
