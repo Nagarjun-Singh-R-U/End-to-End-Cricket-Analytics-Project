@@ -49,6 +49,10 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 * Programming Language: Python
 * Data Manipulation: Pandas
 * Data Visualization: Power BI
+
+## Outcomes:
+
+* The project's dynamic and informative dashboards provided actionable insights for cricket team management, coaches, and enthusiasts to strategize and select the best playing 11 for the ICC Cricket World Cup 2022.
   
 
 
