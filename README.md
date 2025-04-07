@@ -31,5 +31,18 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 * Openers
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/2fc7155d73e603372b67de8de47fbcea5652f8e7/Openers.png)
 
+* Finishers
+  ![Image Alt]()
+
+* Anchors
+  ![Image Alt]()
+
+* All-Rounders
+  ![Image Alt]()
+
+* Fast Bowlers
+  ![Image Alt]()
+  
+
 
 
