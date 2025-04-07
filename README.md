@@ -32,7 +32,7 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/2fc7155d73e603372b67de8de47fbcea5652f8e7/Openers.png)
 
 * Finishers
-  ![Image Alt]()
+  ![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/a25a4b075894f2f22a6f531fd8f813fa6d49516a/Finishers.png)
 
 * Anchors
   ![Image Alt]()
