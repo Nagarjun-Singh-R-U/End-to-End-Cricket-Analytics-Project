@@ -29,7 +29,7 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 ## Parameters:
 
 * Openers
-![Image Alt]()
+![Image Alt](https://github.com/Nagarjun-Singh-R-U/End-to-End-Cricket-Analytics-Project/blob/2fc7155d73e603372b67de8de47fbcea5652f8e7/Openers.png)
 
 
 
