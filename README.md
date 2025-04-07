@@ -28,6 +28,8 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 
 ## Parameters:
 
+* Openers
+
 
 
 
